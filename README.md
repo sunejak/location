@@ -1,2 +1,2 @@
 # location
-Mobile poistioning
+Mobile positioning
